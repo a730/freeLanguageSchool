@@ -36,7 +36,7 @@ const CONFIG = {
 
   // Other Settings
   defaultLanguage: 'en',
-  maxCoursesDisplayed: 5,  // Limit for dashboard displays
+  maxCoursesDisplayed: 3,  // Limit for dashboard displays
   enableAnalytics: true,   // Toggle for tracking
 };
 
